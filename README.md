@@ -11,11 +11,11 @@ A promotional page for a stylish franchise. It includes features such as links t
 
 | <div align="center">Preview iPad Mini</div> |
 |:--:|
-| <img src="./preview/preview-ipad-mini.png" alt="Preview iPad Mini" width="500"/> |
+| <img src="./preview/preview-ipad-mini.png" alt="Preview iPad Mini" width="600"/> |
 
 | <div align="center">Preview iPhone 14 Pro Max</div> |
 |:--:|
-| <img src="./preview/preview-iphone-14-pro-max.png" alt="Preview iPhone" width="400"/> |
+| <img src="./preview/preview-iphone-14-pro-max.png" alt="Preview iPhone" width="600"/> |
 
 
 
