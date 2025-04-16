@@ -1,0 +1,161 @@
+main{
+    display: flex;
+
+    align-items: center;
+    justify-content: space-between;
+
+    width: 100%;
+    max-width: 1440px;
+}
+
+.main_info{
+    width: 100%;
+    max-width: 570px;
+
+    margin: 0 auto; 
+
+}
+
+.main_info p{
+    font-size: 20px;
+    margin: 20px 0 28px;
+
+    padding: 0 10px;
+    text-align: justify;        
+    text-justify: inter-word; 
+
+     
+}
+
+.main_info div{
+    display: flex;
+    column-gap: 32px;
+}
+
+.main_info div a{
+
+    width: 100%;
+    padding: 10px 0;
+    border-radius: 3px;
+
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 0.2px;
+
+    transform: skew(-10deg);
+}
+
+
+.main_info .button1 {
+    background: var(--red);
+    color: #fff;
+    border: none;
+  }
+  
+  .main_info .button2 {
+    background: transparent;
+    color: var(--blue);
+    border: 1px solid var(--blue);
+  }
+  
+  .main_info a:hover {
+    opacity: 0.8;
+    cursor: pointer;
+  }
+
+  .danterender {
+    margin-top: 40px;
+    filter: drop-shadow(10px -10px 10px rgba(0, 0, 0, 0.5));
+
+
+   
+  }
+    
+
+  @media (max-width: 768px) {
+    main {
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+    }
+  
+    .main_info {
+      max-width: 100%;
+      padding: 0 16px;
+    }
+  
+    .main_info div {
+      flex-direction: column;
+      row-gap: 12px;
+      align-items: center;
+    }
+  
+    .main_info p {
+      font-size: 16px;
+    }
+
+    .logodmc{
+
+      max-width: 250px;
+    }
+  
+    .danterender {
+      display: none;
+    }
+  }
+  
+  @media (min-width: 769px) and (max-width: 1024px) {
+    main {
+      flex-direction: column;
+      align-items: center;
+      padding: 30px;
+    }
+  
+    .main_info {
+      max-width: 90%;
+      text-align: center;
+    }
+  
+    .main_info div {
+      flex-direction: column;
+      gap: 16px;
+      align-items: center;
+    }
+  
+    .main_info p {
+      font-size: 18px;
+    }
+  
+    .danterender {
+      display: block;
+      width: 320px;
+      margin-top: 40px;
+      align-self: center;
+    }
+  }
+  
+  @media (min-width: 1600px) {
+    main {
+      max-width: 1800px;
+      margin: 0 auto;
+    }
+  
+    .main_info {
+      max-width: 600px;
+    }
+  
+    .main_info p {
+      font-size: 22px;
+    }
+  
+    .danterender {
+      width: 800px;
+    }
+  }
+  
+
+
+
+
