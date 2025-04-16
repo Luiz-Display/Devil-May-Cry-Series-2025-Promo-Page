@@ -5,18 +5,17 @@ Uma página promocional para uma franquia estilosa. Nela inclui alguns recursos 
 A promotional page for a stylish franchise. It includes features such as links to related content, a responsive layout, and other elements to illustrate the material in this case a series released in 2025 called Devil May Cry.
 
 
-| Preview Desktop |
-|--------|
-|![Preview Desktop](./preview/preview-desktop.png)|
+| <div align="center">Preview Desktop</div> |
+|:--:|
+| <img src="./preview/preview-desktop.png" alt="Preview Desktop" width="600"/> |
 
-| Preview iPad Mini |
-|--------|
-|![Preview Desktop](./preview/preview-ipad-mini.png)|
+| <div align="center">Preview iPad Mini</div> |
+|:--:|
+| <img src="./preview/preview-ipad-mini.png" alt="Preview iPad Mini" width="500"/> |
 
-| Preview Iphone 14 Pro Max |
-|--------|
-|![Preview Desktop](./preview/preview-iphone-14-pro-max.png)|
-
+| <div align="center">Preview iPhone 14 Pro Max</div> |
+|:--:|
+| <img src="./preview/preview-iphone-14-pro-max.png" alt="Preview iPhone" width="400"/> |
 
 
 
